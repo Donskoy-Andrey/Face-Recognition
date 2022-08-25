@@ -1,6 +1,6 @@
 # Description
 This project I made as graduation project for Deep Learning School of MIPT. **Project score: 8.0 / 10.0**\
-There are I will use pretrained on VGGFace2 neural network (InceptionResnetV1) for face recognition on a CelebA dataset.
+There are I used pretrained on VGGFace2 neural network (InceptionResnetV1) for face recognition on a CelebA dataset.
 
 # Tasks
 1. Build a neural network for faces classification\
