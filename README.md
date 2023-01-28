@@ -12,4 +12,4 @@ There are I used pretrained on VGGFace2 neural network (InceptionResnetV1) for f
 **Test accuracy with ArcFace loss: 93.581%**
 
 4. Finding trash photos:
-![](https://github.com/Donskoy-Andrey/Face-Recognition/blob/master/trash_photos.png)
+![](https://github.com/Donskoy-Andrey/Face-Recognition/blob/master/images/trash_photos.png)
